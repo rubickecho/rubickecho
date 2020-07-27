@@ -4,7 +4,7 @@
 ### About me :eyes:
 
 - :dart: web developer | app developer  
-- :writing_hand: Writing blogs on  **[peakcool.cn](https://medium.com/@hritik.jaiswal)**
+- :writing_hand: Writing blogs on  **[peakcool.cn](http://peakcool.cn)**
 - :e-mail: Ask me about anything  **[tangliangcheng852@gmail.com](tangliangcheng852@gmail.com)**
 
 ![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=peakcool&show_icons=true&hide_border=true)
