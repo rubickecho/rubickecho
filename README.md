@@ -85,10 +85,10 @@
 
 
 <tr>
-<td align="center">
+<!-- <td align="center">
 <span><b><center>MarkDown</center></b></span> 
 <img src="https://img.icons8.com/ios/32/000000/markdown--v2.png"/>
-</td>
+</td> -->
 
 <td align="center">
 <span><b><center>SQL</center></b></span> 
@@ -100,10 +100,10 @@
 <img height=32px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
 
-<td align="center">
+<!--<td align="center">
 <span><b><center>GitLab</center></b></span> 
 <img src="https://img.icons8.com/color/32/000000/gitlab.png"/>
-</td>
+</td> -->
 </tr>
 
 </tbody>
