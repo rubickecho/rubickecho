@@ -15,6 +15,10 @@
 <table>
 <tbody>
  <tr>
+  <td align="center">
+<span><b><center>React</center></b></span> 
+<img src="https://img.icons8.com/color/32/000000/react-native.png"/> 
+</td>
 <td align="center">
 <span><b><center>Vue</center></b></span> 
 <img src="https://img.icons8.com/color/32/000000/vue-js.png"/> 
@@ -41,7 +45,7 @@
 </td>
 
 <td align="center">
-<span><b><center>PostCss</center></b></span> 
+<span><b><center>PostCSS</center></b></span> 
 <img height=28px src="https://postcss.org/postcss.a7170133.svg"> 
 </td>
 
@@ -60,12 +64,7 @@
 </td>
 
 <td align="center">
-<span><b><center>PHP</center></b></span> 
-<img src="https://img.icons8.com/officel/32/000000/php-logo.png"/> 
-</td>
-
-<td align="center">
-<span><b><center>Cordova</center></b></span> 
+<span><b><center>Cordova/Capacitor</center></b></span> 
 <img height=32px src="https://cordova.apache.org/static/img/cordova_bot.png"> 
 </td>
 
@@ -79,17 +78,6 @@
 <span><b><center>Docker</center></b></span> 
 <img src="https://img.icons8.com/dusk/32/000000/docker.png"/>
 </td>
-
-</tr>
-
-
-
-<tr>
-<!-- <td align="center">
-<span><b><center>MarkDown</center></b></span> 
-<img src="https://img.icons8.com/ios/32/000000/markdown--v2.png"/>
-</td> -->
-
 <td align="center">
 <span><b><center>SQL</center></b></span> 
 <img height=32px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
@@ -99,6 +87,15 @@
 <span><b><center>Git</center></b></span> 
 <img height=32px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
+</tr>
+
+
+
+<tr>
+<!-- <td align="center">
+<span><b><center>MarkDown</center></b></span> 
+<img src="https://img.icons8.com/ios/32/000000/markdown--v2.png"/>
+</td> -->
 
 <!--<td align="center">
 <span><b><center>GitLab</center></b></span> 
