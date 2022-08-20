@@ -16,37 +16,37 @@
 <tbody>
  <tr>
   <td align="center">
-<span><b><center>React</center></b></span> 
+<p><b><center>React</center></b></p> 
 <img src="https://img.icons8.com/color/32/000000/react-native.png"/> 
 </td>
 <td align="center">
-<span><b><center>Vue</center></b></span> 
+<p><b><center>Vue</center></b></p> 
 <img src="https://img.icons8.com/color/32/000000/vue-js.png"/> 
 </td>
 
 <td align="center">
-<span><b><center>Flutter</center></b></span> 
+<p><b><center>Flutter</center></b></p> 
 <img height=32px src="https://img.icons8.com/color/2x/flutter.png"> 
 </td>
 
 <td align="center">
-<span><b><center>JavaScript</center></b></span> 
+<p><b><center>JavaScript</center></b></p> 
 <img height=32px src="https://img.icons8.com/color/2x/javascript.png"> 
 </td>
 
 <td align="center">
-<span><b><center>TypeScript</center></b></span> 
+<p><b><center>TypeScript</center></b></p> 
 <img src="https://img.icons8.com/color/32/000000/typescript.png"/>
 </td>
 
 <td align="center">
-<span><b><center>HTML</center></b></span> 
+<p><b><center>HTML</center></b></p> 
 <img height=32px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
 
 <td align="center">
-<span><b><center>PostCSS</center></b></span> 
-<img height=28px src="https://postcss.org/postcss.a7170133.svg"> 
+<p><b><center>CSS</center></b></p> 
+<img height=28px src="https://img.icons8.com/ios/50/000000/css3.png"> 
 </td>
 
 </tr>
@@ -54,37 +54,37 @@
 <tr>
 
 <td align="center">
-<span><b><center>NodeJS</center></b></span> 
+<p><b><center>NodeJS</center></b></p> 
 <img height=32px src="https://img.icons8.com/color/2x/nodejs.png"> 
 </td>
 
 <td align="center">
-<span><b><center>Webpack</center></b></span> 
+<p><b><center>Webpack</center></b></p> 
 <img height=32px src="https://img.icons8.com/dusk/64/000000/webpack.png"/>
 </td>
 
 <td align="center">
-<span><b><center>Cordova/Capacitor</center></b></span> 
+<p><b><center>Cordova/Capacitor</center></b></p> 
 <img height=32px src="https://cordova.apache.org/static/img/cordova_bot.png"> 
 </td>
 
 <td align="center">
-<span><b><center>Nginx<center></b></span> 
+<p><b><center>Nginx<center></b></p> 
 <img src="https://img.icons8.com/color/32/000000/nginx.png"/> 
 </td>
 
 
 <td align="center">
-<span><b><center>Docker</center></b></span> 
+<p><b><center>Docker</center></b></p> 
 <img src="https://img.icons8.com/dusk/32/000000/docker.png"/>
 </td>
 <td align="center">
-<span><b><center>SQL</center></b></span> 
+<p><b><center>SQL</center></b></p> 
 <img height=32px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
 </td>
 
 <td align="center">
-<span><b><center>Git</center></b></span> 
+<p><b><center>Git</center></b></p> 
 <img height=32px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
 </tr>
@@ -93,12 +93,12 @@
 
 <tr>
 <!-- <td align="center">
-<span><b><center>MarkDown</center></b></span> 
+<p><b><center>MarkDown</center></b></p> 
 <img src="https://img.icons8.com/ios/32/000000/markdown--v2.png"/>
 </td> -->
 
 <!--<td align="center">
-<span><b><center>GitLab</center></b></span> 
+<p><b><center>GitLab</center></b></p> 
 <img src="https://img.icons8.com/color/32/000000/gitlab.png"/>
 </td> -->
 </tr>
