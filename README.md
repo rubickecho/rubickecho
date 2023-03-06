@@ -1,5 +1,5 @@
 
-### Hey 👋, I'm [peakcool]() 👨‍💻
+### Hey 👋, I'm [rubickecho]() 👨‍💻
 
 ### About me :eyes:
 
@@ -7,7 +7,7 @@
 - :writing_hand: Writing blogs on  **[blog.rubickecho.com](https://blog.rubickecho.com)**
 - :e-mail: Ask me about anything  **[tangliangcheng852@gmail.com](tangliangcheng852@gmail.com)**
 
-![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=rubickecho&show_icons=true&hide_border=true)
+[![rubickecho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubickecho)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack :computer:
 
