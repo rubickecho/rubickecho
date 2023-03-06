@@ -4,7 +4,7 @@
 ### About me :eyes:
 
 - :dart: web developer | app developer  
-- :writing_hand: Writing blogs on  **[blog.peakcool.cn](https://blog.peakcool.cn)**
+- :writing_hand: Writing blogs on  **[blog.rubickecho.com](https://blog.rubickecho.com)**
 - :e-mail: Ask me about anything  **[tangliangcheng852@gmail.com](tangliangcheng852@gmail.com)**
 
 ![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=rubickecho&show_icons=true&hide_border=true)
