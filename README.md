@@ -6,6 +6,7 @@
 - :dart: web developer | app developer  
 - :writing_hand: Writing blogs on  **[blog.rubickecho.com](https://blog.rubickecho.com)**
 - :e-mail: Ask me about anything  **[tangliangcheng852@gmail.com](tangliangcheng852@gmail.com)**
+- 👀 Welcome to follow my personal Telegram channel. **[Rubickecho's Life](https://t.me/rubickecho)**
 
 [![rubickecho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubickecho)](https://github.com/anuraghazra/github-readme-stats)
 
